@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/tow-truck-service/static/css/main.1950b6dd.css",
-    "main.js": "/tow-truck-service/static/js/main.f8afcca7.js",
+    "main.css": "/tow-truck-service/static/css/main.5689166a.css",
+    "main.js": "/tow-truck-service/static/js/main.97b1f030.js",
+    "static/media/tow-track-logo.png": "/tow-truck-service/static/media/tow-track-logo.bdc57d63236eb1991c96.png",
     "index.html": "/tow-truck-service/index.html",
-    "main.1950b6dd.css.map": "/tow-truck-service/static/css/main.1950b6dd.css.map",
-    "main.f8afcca7.js.map": "/tow-truck-service/static/js/main.f8afcca7.js.map"
+    "main.5689166a.css.map": "/tow-truck-service/static/css/main.5689166a.css.map",
+    "main.97b1f030.js.map": "/tow-truck-service/static/js/main.97b1f030.js.map"
   },
   "entrypoints": [
-    "static/css/main.1950b6dd.css",
-    "static/js/main.f8afcca7.js"
+    "static/css/main.5689166a.css",
+    "static/js/main.97b1f030.js"
   ]
 }
